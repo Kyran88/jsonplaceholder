@@ -1,0 +1,20 @@
+body {
+  padding-top: 20px;
+}
+
+.panel {
+  max-height: 80vh;
+  overflow: auto;
+}
+.panel .panel-body ul li {
+  padding: 8px;
+  border-bottom: 1px dotted lightgray;
+}
+.panel .panel-body ul li:hover {
+  background-color: lightblue;
+  cursor: pointer;
+}
+.panel .panel-body ul li :last-child {
+  padding-bottom: 0px;
+  border-bottom: none;
+}
