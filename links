@@ -1,0 +1,15 @@
+Head
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+css
+
+https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css
+
+
+Javascript
+Javascript preprocessor - Babel
+
+https://cdnjs.cloudflare.com/ajax/libs/react/15.4.2/react.min.js
+https://cdnjs.cloudflare.com/ajax/libs/react/15.4.2/react-dom.min.js
+https://unpkg.com/axios/dist/axios.min.js
